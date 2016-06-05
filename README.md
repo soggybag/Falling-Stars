@@ -8,5 +8,5 @@ Preliminary design concepts are here:
 
 Currently this is a work in progess. 
 
-
+![Home Title Image](Home Title.png)
 
